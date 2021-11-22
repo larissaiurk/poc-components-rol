@@ -1,12 +1,12 @@
 {
-  "name": "poc-components",
+  "name": "poc-components-rol",
   "version": "0.1.0",
   "main": "dist/index.js",
   "private": false,
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/larissaiurk/poc-components"
+    "url": "https://github.com/larissaiurk/poc-components-rol"
   },
   "peerDependencies": {
     "react": "^17.0.2",
